@@ -1,0 +1,3 @@
+alert('oiiiiiiii')
+let nome= prompt('qual é o seu nome?');
+    alert('bem vindeeeee, ' + nome);
