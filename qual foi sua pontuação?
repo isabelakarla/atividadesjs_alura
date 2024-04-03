@@ -1,0 +1,7 @@
+alert('oiiiiiiii')
+let pontuacao= prompt('qual foi sua pontuação?');
+if (pontuacao >= 100){
+    alert('parabénssssss, você venceu :)');
+}else {
+    alert('tente novamente :(')
+}
