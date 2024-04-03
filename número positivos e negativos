@@ -1,0 +1,7 @@
+alert('olá!');
+let numero= prompt('insira aqui o número desejado: ');
+if (numero >0){
+    alert('número positivo!!!')
+}else {
+    alert('número negativo!!!')
+}
