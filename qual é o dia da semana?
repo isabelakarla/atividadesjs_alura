@@ -1,0 +1,9 @@
+alert('oiiiiiiii')
+let diaDaSemana= prompt('qual é o dia da semana?');
+if (diaDaSemana == 'sábado'){
+    alert('bom fim de semanaaaa :)');
+} else if (diaDaSemana=='domingo'){
+    alert('bom fim de semanaaaa :)');
+}else {
+    alert('boa semana para você!')
+}
